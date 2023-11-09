@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Metasploit Stats</title>
+    <meta charset='utf-8'>
+    <!-- REQUIRED -->
+    <style>
+      body{
+        padding-top: 60px;
+      }
+    </style>
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/superhero/bootstrap.min.css" rel="stylesheet" integrity="sha384-IEb1z7D4ISbz8RTKVtgjIw6KegExJgu6WdDei6Fn2xgL6f5dfyTppLEFnkFbRaxv" crossorigin="anonymous">
+    <script src="assets/bootstrap/js/jquery.min.js"></script>
+    <script src="assets/highcharts.js" type='text/javascript'></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <!-- EO REQUIRED -->
+  </head>
+  <body>
+    <!-- NAVBAR-->
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="navbar-header">
+
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+              </button> <a class="navbar-brand" href="#">Metasploit Stats</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav">
+                <li><a href="https://docs.metasploit.com">Metasploit Docs</a></li>
+                <li><a href="https://github.com/rapid7/metasploit-framework">Metasploit on Github</a></li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <!-- NAVBAR END-->
+
+    <div class='container'>
+      <div class='tabbable tabs-left'>
+        <ul class='nav nav-pills'>
+          <li>
+            
+  <li role="presentation">
+    <a href="pull_request_rates.html" >Pull Requests per Quarter</a>
+  </li>
+  <li role="presentation">
+    <a href="bug_rates.html" >Bugs per Quarter</a>
+  </li>
+  <li role="presentation">
+    <a href="feature_and_enhancement_rates.html" >Features and Enhancements per Quarter</a>
+  </li>
+  <li role="presentation">
+    <a href="index.html" >Open Pull Requests
+      <span class="badge">12 since last week</span>
+    </a>
+  </li>
+  <li role="presentation">
+    <a href="features_and_enhancements.html" >Open Features and Enhancements
+      <span class="badge">0 since last week</span>
+    </a>
+  </li>
+  <li role="presentation">
+    <a href="bugs.html" >Open Bugs
+      <span class="badge">4 since last week</span>
+    </a>
+  </li>
+          </li>
+        </ul>
+        <div class='tab-content'>
+          <div class='tab-pane active'>
+            <div class='page-header'>
+              <h1 class='pagination-centered'>Features and Enhancements per Quarter by date</h1>
+            </div>
+            <script type="text/javascript">
+        $(function () {
+            $('#container').highcharts({
+                chart: {
+                    zoomType: 'x'
+                },
+                title: {
+                    text: 'Features and Enhancements per Quarter'
+                },
+                subtitle: {
+                    text: ''
+                },
+                xAxis: {
+                    type: 'datetime',
+                    dateTimeLabelFormats: { // don't display the dummy year
+                        month: '%e. %b %Y',
+                        year: '%b'
+                    },
+                    title: {
+                        text: 'Date'
+                    }
+                },
+                yAxis: {
+                    title: {
+                        text: 'Features and Enhancements per Quarter'
+                    },
+                    min: 0
+                },
+                tooltip: {
+                    headerFormat: '<b>{series.name}</b><br>',
+                    pointFormat: '{point.x:%e. %b}: {point.y:.2f}'
+                },
+
+                plotOptions: {
+                    spline: {
+                        marker: {
+                            enabled: true
+                        }
+                    }
+                },
+
+                series: [
+                  { name: "Total Opened Features and Enhancements per Quarter", data: [[1577858400000, 8], [1585717200000, 3], [1593579600000, 3], [1601528400000, 1], [1633064400000, 3], [1641016800000, 1], [1648789200000, 3], [1656651600000, 2], [1680325200000, 1]] },
+                  { name: "Total Closed Features and Enhancements per Quarter", data: [[1577858400000, 4], [1585717200000, 43], [1593579600000, 16], [1601528400000, 3], [1609480800000, 8], [1617253200000, 2], [1625115600000, 1], [1633064400000, 1], [1641016800000, 1], [1648789200000, 4], [1656651600000, 4], [1664600400000, 2], [1680325200000, 4], [1688187600000, 46], [1696136400000, 5], [1699509600000, 1]] },
+                  { name: "Rapid7 Opened Features and Enhancements per Quarter", data: [[1633064400000, 1], [1641016800000, 1], [1648789200000, 1], [1656651600000, 1], [1680325200000, 1]] },
+                  { name: "Rapid7 Closed Features and Enhancements per Quarter", data: [[1585717200000, 12], [1593579600000, 8], [1609480800000, 1], [1617253200000, 1], [1625115600000, 1], [1656651600000, 2], [1680325200000, 1], [1688187600000, 15]] },
+                ]
+            });
+        });
+            </script>
+            <div id="container"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <table class="table table-striped">
+      <h2>Top committers this last month</h2>
+      <tr>
+<td>Spencer McIntyre (34)</td><td>Metasploit (34)</td><td>sfewer-r7 (33)</td><td>adfoster-r7 (23)</td><td>h00die (21)</td><td>sjanusz-r7 (18)</td><td>Jemmy Wang (15)</td><td>Christophe De La Fuente (12)</td><td>Jack Heysel (12)</td><td>emirpolatt (10)</td></tr>
+<tr><td>Aleksa Zatezalo (8)</td><td>jheysel-r7 (8)</td><td>cgranleese-r7 (7)</td><td>Stephen Fewer (6)</td><td>bwatters (5)</td><td>elliot (4)</td><td>aleksa (4)</td><td>Heyder Andrade (4)</td><td>Zach Goldman (4)</td><td>Ashley Donaldson (4)</td></tr>
+<tr><td>h00die-gr3y (4)</td><td>dwelch-r7 (3)</td><td>Emir Polat (2)</td><td>Simon Janusz (1)</td><td>Rory McKinley (1)</td><td>gardnerapp (1)</td><td>Corey (1)</td><td>Patryk Krawaczyński (1)</td></tr>
+
+    </table>
+    <h2>Top items this last week</h2>
+    
+            
+    <div class="panel panel-primary">
+      <div class="panel-heading" data-toggle="collapse"
+           data-parent="#accordion" data-target="#index">
+        <h4 class="panel-title">New Open Pull Requests</h4>
+      </div>
+      <div id="index" class="panel-collapse collapse">
+      <div class="panel-body">
+        Check out some of the new Open Pull Requests for this week!
+      </div>
+      <div class="table-responsive">
+      <table class="table">
+    
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18522">
+                <span class="fa-fw fa fa-github">Add Exploit Module for Vinchin Backup & Recovery Command Injection Vulnerability (Old PR: #18521)</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-09T16:32:30+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              Chocapikk
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18519">
+                <span class="fa-fw fa fa-github">Docker kernel module escape</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-08T03:03:17+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              rad10
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18518">
+                <span class="fa-fw fa fa-github">Recon host info</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-07T22:39:38+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              rad10
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18516">
+                <span class="fa-fw fa fa-github">Extract reusable core session commands</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-06T15:50:00+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              dwelch-r7
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18515">
+                <span class="fa-fw fa fa-github">Add java target for ManageEngine ServiceDesk Plus CVE-2022-47966</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-05T21:33:13+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              errorxyz
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18521">
+                <span class="fa-fw fa fa-github">Add Exploit Module for Vinchin Backup & Recovery Command Injection Vulnerability</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-09T10:41:48+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              Chocapikk
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18507">
+                <span class="fa-fw fa fa-github">Exploit & Auxiliary modules for CVE-2023-20198 and CVE-2023-20273 (Cisco IOS XE)</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-03T15:51:25+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              sfewer-r7
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18506">
+                <span class="fa-fw fa fa-github">Fix a stability issue with the module</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-03T12:54:23+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              zeroSteiner
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-payloads/issues/683">
+                <span class="fa-fw fa fa-github">Tweak java meterpreter to resolve multiple ips per host</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-07T17:04:12+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              zgoldman-r7
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/rex-text/issues/67">
+                <span class="fa-fw fa fa-github">Remove unused travis configuration</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-08T21:01:58+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              adfoster-r7
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/ruby_smb/issues/256">
+                <span class="fa-fw fa fa-github">Add support for callback hooks in share providers</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-08T20:47:50+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              zeroSteiner
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/ruby_smb/issues/255">
+                <span class="fa-fw fa fa-github">Fix an issue with SMB2 create context padding</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-03T17:40:58+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              zeroSteiner
+            </td>
+          </tr></table></div></div></div>
+    <div class="panel panel-primary">
+      <div class="panel-heading" data-toggle="collapse"
+           data-parent="#accordion" data-target="#features_and_enhancements">
+        <h4 class="panel-title">New Open Features and Enhancements</h4>
+      </div>
+      <div id="features_and_enhancements" class="panel-collapse collapse">
+      <div class="panel-body">
+        Check out some of the new Open Features and Enhancements for this week!
+      </div>
+      <div class="table-responsive">
+      <table class="table">
+    </table></div></div></div>
+    <div class="panel panel-primary">
+      <div class="panel-heading" data-toggle="collapse"
+           data-parent="#accordion" data-target="#bugs">
+        <h4 class="panel-title">New Open Bugs</h4>
+      </div>
+      <div id="bugs" class="panel-collapse collapse">
+      <div class="panel-body">
+        Check out some of the new Open Bugs for this week!
+      </div>
+      <div class="table-responsive">
+      <table class="table">
+    
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18513">
+                <span class="fa-fw fa fa-github">[msfvenom] aarch64 ELF shared object bus error</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-05T02:01:07+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              enty8080
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18511">
+                <span class="fa-fw fa fa-github">Stuck on Channel 1 created</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-04T13:48:16+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              Drjacky
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18510">
+                <span class="fa-fw fa fa-github">Error when I try to update via apt on Ubuntu </span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-03T19:25:29+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              vitich
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18509">
+                <span class="fa-fw fa fa-github">Faile to load scanner/http/rdp_web_login (Ruby Errors)</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-11-03T18:58:40+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              ruiper
+            </td>
+          </tr></table></div></div></div></div>
+  </body>
+</html>

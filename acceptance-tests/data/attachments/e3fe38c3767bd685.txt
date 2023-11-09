@@ -1,0 +1,1853 @@
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 10, cb 0x7ff8cedc5b6a, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 13, cb 0x7ff8cedc5b1d, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 22, cb 0x7ff8cedc5ac1, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 11, cb 0x7ff8cedc5a82, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 21, cb 0x7ff8cedc5a21, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 16, cb 0x7ff8cedc5919, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 12, cb 0x7ff8cedc5604, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 23, cb 0x7ff8cedc55d4, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 4, cb 0x7ff8cedc49dc, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 2, cb 0x7ff8cedc53aa, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 6, cb 0x7ff8cedc5305, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 7, cb 0x7ff8cedc5278, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 5, cb 0x7ff8cedc5179, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 8, cb 0x7ff8cedc50a2, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1, cb 0x7ff8cedc503b, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 3, cb 0x7ff8cedc548d, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1001, cb 0x7ff8cedce89b, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1004, cb 0x7ff8cedcbd5b, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1006, cb 0x7ff8cedce84f, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1007, cb 0x7ff8cedcbe05, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1005, cb 0x7ff8cedcb2f0, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1002, cb 0x7ff8cedce2b0, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1008, cb 0x7ff8cedce25a, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1011, cb 0x7ff8cedcbccc, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1003, cb 0x7ff8cedcbd1e, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1009, cb 0x7ff8cedce1d9, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1013, cb 0x7ff8cedce19d, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1014, cb 0x7ff8cedcb35c, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1016, cb 0x7ff8cedcbc8f, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1010, cb 0x7ff8cedcb30b, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1015, cb 0x7ff8cedcb326, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1026, cb 0x7ff8cedce3e6, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1019, cb 0x7ff8cedcc98c, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1022, cb 0x7ff8cedccc31, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1017, cb 0x7ff8cedcce99, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1023, cb 0x7ff8cedcceb3, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1018, cb 0x7ff8cedccc71, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1021, cb 0x7ff8cedcced0, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1020, cb 0x7ff8cedcb341, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1024, cb 0x7ff8cedce76c, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1025, cb 0x7ff8cedce751, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1052, cb 0x7ff8cedcd753, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1055, cb 0x7ff8cedce557, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1059, cb 0x7ff8cedcd833, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1056, cb 0x7ff8cedcd8f0, arg 0x1c7e040
+[11-09-2023 17:37:09.999s] [tlv.c:498] Registering command 1071, cb 0x7ff8cedcdb6a, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1067, cb 0x7ff8cedce5a2, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1068, cb 0x7ff8cedce698, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1069, cb 0x7ff8cedcdcad, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1077, cb 0x7ff8cedce7d5, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1071, cb 0x7ff8cedcdb6a, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1072, cb 0x7ff8cedcdc38, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1070, cb 0x7ff8cedce787, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1095, cb 0x7ff8cedcb2e6, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1118, cb 0x7ff8cedd3caf, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1119, cb 0x7ff8cedcf7eb, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1083, cb 0x7ff8cedcdfe7, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1112, cb 0x7ff8cedd3b4a, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1113, cb 0x7ff8cedd3a5a, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1114, cb 0x7ff8cedd3aca, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1111, cb 0x7ff8cedd36e1, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1117, cb 0x7ff8cedd3555, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1115, cb 0x7ff8cedd35fb, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [tlv.c:498] Registering command 1116, cb 0x7ff8cedd3666, arg 0x1c7e040
+[11-09-2023 17:37:09.000s] [mettle.c:75] Heartbeat
+[11-09-2023 17:37:13.999s] [tlv.c:525] handler for 16: 0x1c80a40
+[11-09-2023 17:37:13.999s] [tlv.c:566] processing command: 16 id: '78911862266642342508732110759857'
+[11-09-2023 17:37:14.226s] [tlv.c:525] handler for 10: 0x1c805e0
+[11-09-2023 17:37:14.226s] [tlv.c:566] processing command: 10 id: '39755828014174899008695337645363'
+[11-09-2023 17:37:14.525s] [tlv.c:525] handler for 10: 0x1c805e0
+[11-09-2023 17:37:14.525s] [tlv.c:566] processing command: 10 id: '90252476999169169883069148285990'
+[11-09-2023 17:37:14.998s] [mettle.c:75] Heartbeat
+[11-09-2023 17:37:19.358s] [tlv.c:525] handler for 1008: 0x1c810a0
+[11-09-2023 17:37:19.358s] [tlv.c:566] processing command: 1008 id: '67184670090946289007987457598295'
+[11-09-2023 17:37:19.948s] [tlv.c:525] handler for 1055: 0x1c81e80
+[11-09-2023 17:37:19.948s] [tlv.c:566] processing command: 1055 id: '76811765998824122536063319147826'
+[11-09-2023 17:37:19.951s] [tlv.c:525] handler for 1059: 0x1c81ee0
+[11-09-2023 17:37:19.951s] [tlv.c:566] processing command: 1059 id: '03170115920192979652560401723441'
+[11-09-2023 17:37:19.953s] [tlv.c:525] handler for 1019: 0x1c81ac0
+[11-09-2023 17:37:19.953s] [tlv.c:566] processing command: 1019 id: '81110504433925564614602407710445'
+[11-09-2023 17:37:19.954s] [stdapi/net/config.c:46] lo: 127.0.0.1/8
+[11-09-2023 17:37:19.954s] [stdapi/net/config.c:46] lo: ::1
+[11-09-2023 17:37:19.954s] [stdapi/net/config.c:46] eth0: 10.1.0.242/16
+[11-09-2023 17:37:19.954s] [stdapi/net/config.c:46] eth0: fe80::20d:3aff:fe8c:9deb/64
+[11-09-2023 17:37:19.954s] [stdapi/net/config.c:46] docker0: 172.17.0.1/16
+[11-09-2023 17:37:19.957s] [tlv.c:525] handler for 1022: 0x1c81b20
+[11-09-2023 17:37:19.957s] [tlv.c:566] processing command: 1022 id: '14663146754573339486699150980149'
+[11-09-2023 17:37:19.998s] [mettle.c:75] Heartbeat
+[11-09-2023 17:37:21.012s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:21.013s] [tlv.c:566] processing command: 1069 id: '28502430179497577981222125354358'
+[11-09-2023 17:37:21.013s] [stdapi/sys/process.c:339] process_new: echo xUPB 1>&2  0x00000043
+[11-09-2023 17:37:21.013s] [process.c:427] child pid 3299 started
+[11-09-2023 17:37:21.013s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Resource temporarily unavailable
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.014s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:285] child pid 3299 exited status 0
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.015s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:21.016s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:21.016s] [tlv.c:566] processing command: 5 id: '55948587378734763950278002165955'
+[11-09-2023 17:37:21.017s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:21.017s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:21.017s] [tlv.c:566] processing command: 5 id: '67411289749153051870174551454121'
+[11-09-2023 17:37:21.421s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:21.421s] [tlv.c:566] processing command: 1068 id: '61149733249104398547857987648631'
+[11-09-2023 17:37:21.423s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:21.423s] [tlv.c:566] processing command: 1069 id: '46838244556370257603799863368233'
+[11-09-2023 17:37:21.423s] [stdapi/sys/process.c:339] process_new: echo vPWb  0x00000043
+[11-09-2023 17:37:21.423s] [process.c:427] child pid 3301 started
+[11-09-2023 17:37:21.423s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:21.424s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[11-09-2023 17:37:21.424s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.424s] [process.c:285] child pid 3301 exited status 0
+[11-09-2023 17:37:21.424s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:21.424s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:21.523s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:21.523s] [tlv.c:566] processing command: 5 id: '00267009098055610490305857242028'
+[11-09-2023 17:37:21.523s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:21.624s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:21.624s] [tlv.c:566] processing command: 5 id: '06801688933624376853661649869233'
+[11-09-2023 17:37:21.928s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:21.928s] [tlv.c:566] processing command: 1068 id: '12675815587375055044805737950506'
+[11-09-2023 17:37:21.930s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:21.930s] [tlv.c:566] processing command: 1069 id: '51747991030839005975687562724449'
+[11-09-2023 17:37:21.930s] [stdapi/sys/process.c:339] process_new: sleep 1; echo FrDr  0x00000043
+[11-09-2023 17:37:21.930s] [process.c:427] child pid 3302 started
+[11-09-2023 17:37:21.930s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:22.031s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:22.031s] [tlv.c:566] processing command: 5 id: '41407229677499232680501884614662'
+[11-09-2023 17:37:22.333s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:22.333s] [tlv.c:566] processing command: 5 id: '82411883518482686948457398315280'
+[11-09-2023 17:37:22.636s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:22.636s] [tlv.c:566] processing command: 5 id: '25175879264467630219659190832977'
+[11-09-2023 17:37:22.934s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[11-09-2023 17:37:22.934s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:22.934s] [process.c:285] child pid 3302 exited status 0
+[11-09-2023 17:37:22.934s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:22.934s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:22.939s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:22.939s] [tlv.c:566] processing command: 5 id: '91909534617170785801994809636776'
+[11-09-2023 17:37:22.939s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:23.041s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:23.041s] [tlv.c:566] processing command: 5 id: '24146641591879928763268168873743'
+[11-09-2023 17:37:23.438s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:23.438s] [tlv.c:566] processing command: 1068 id: '58191541584801854205746474002035'
+[11-09-2023 17:37:23.440s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:23.440s] [tlv.c:566] processing command: 1069 id: '17012426055680524217658131144852'
+[11-09-2023 17:37:23.440s] [stdapi/sys/process.c:339] process_new: echo jvnB; sleep 1; echo SwNu  0x00000043
+[11-09-2023 17:37:23.440s] [process.c:427] child pid 3304 started
+[11-09-2023 17:37:23.440s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:23.542s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:23.542s] [tlv.c:566] processing command: 5 id: '40860712360206076185663851023265'
+[11-09-2023 17:37:23.542s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:23.644s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:23.644s] [tlv.c:566] processing command: 5 id: '65604330515656214141187808704190'
+[11-09-2023 17:37:23.947s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:23.947s] [tlv.c:566] processing command: 5 id: '91443350225854056883321293570334'
+[11-09-2023 17:37:24.249s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:24.249s] [tlv.c:566] processing command: 5 id: '55163672041622283676496208283480'
+[11-09-2023 17:37:24.443s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[11-09-2023 17:37:24.443s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.443s] [process.c:285] child pid 3304 exited status 0
+[11-09-2023 17:37:24.443s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.443s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:24.452s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:24.452s] [tlv.c:566] processing command: 5 id: '14446428837844051064069322800735'
+[11-09-2023 17:37:24.452s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:24.558s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:24.558s] [tlv.c:566] processing command: 5 id: '54037055049079502687683952384193'
+[11-09-2023 17:37:24.947s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:24.947s] [tlv.c:566] processing command: 1068 id: '87282693687848166488373630493632'
+[11-09-2023 17:37:24.950s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:24.950s] [tlv.c:566] processing command: 1069 id: '29321060857953707611706611900256'
+[11-09-2023 17:37:24.950s] [stdapi/sys/process.c:339] process_new: echo JVnn  0x00000043
+[11-09-2023 17:37:24.950s] [process.c:427] child pid 3307 started
+[11-09-2023 17:37:24.950s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Resource temporarily unavailable
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.951s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.952s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.953s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:24.954s] [tlv.c:566] processing command: 5 id: '43990471404612153215704654099847'
+[11-09-2023 17:37:24.954s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.954s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:285] child pid 3307 exited status 0
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:24.955s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:24.998s] [mettle.c:75] Heartbeat
+[11-09-2023 17:37:25.056s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:25.056s] [tlv.c:566] processing command: 5 id: '52123827070478065783992362707099'
+[11-09-2023 17:37:25.357s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:25.357s] [tlv.c:566] processing command: 1068 id: '91957992196041229706684358720132'
+[11-09-2023 17:37:25.358s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:25.358s] [tlv.c:566] processing command: 1069 id: '17169954849749034155643003995498'
+[11-09-2023 17:37:25.358s] [stdapi/sys/process.c:339] process_new: echo zWKE  0x00000043
+[11-09-2023 17:37:25.359s] [process.c:427] child pid 3308 started
+[11-09-2023 17:37:25.359s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:25.359s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[11-09-2023 17:37:25.359s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:25.359s] [process.c:285] child pid 3308 exited status 0
+[11-09-2023 17:37:25.359s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:25.359s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:25.461s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:25.461s] [tlv.c:566] processing command: 5 id: '98411043958780437409280380280978'
+[11-09-2023 17:37:25.461s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:25.562s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:25.562s] [tlv.c:566] processing command: 5 id: '33127173520820299384576997388302'
+[11-09-2023 17:37:25.865s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:25.865s] [tlv.c:566] processing command: 1068 id: '04609106893602143434442299165421'
+[11-09-2023 17:37:25.867s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:25.867s] [tlv.c:566] processing command: 1069 id: '02480058431439508473370355390907'
+[11-09-2023 17:37:25.867s] [stdapi/sys/process.c:339] process_new: echo RKJl  0x00000043
+[11-09-2023 17:37:25.867s] [process.c:427] child pid 3309 started
+[11-09-2023 17:37:25.867s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:25.868s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:25.868s] [process.c:285] child pid 3309 exited status 0
+[11-09-2023 17:37:25.868s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:25.868s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:25.873s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:25.873s] [tlv.c:566] processing command: 5 id: '84322792190472501683651797245778'
+[11-09-2023 17:37:25.873s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:25.973s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:25.973s] [tlv.c:566] processing command: 5 id: '62723961097534440907332577694228'
+[11-09-2023 17:37:26.278s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:26.279s] [tlv.c:566] processing command: 1068 id: '64308100179005380142479850976319'
+[11-09-2023 17:37:26.280s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:26.280s] [tlv.c:566] processing command: 1069 id: '83483244743462950915646405334048'
+[11-09-2023 17:37:26.280s] [stdapi/sys/process.c:339] process_new: echo XAdu  0x00000043
+[11-09-2023 17:37:26.280s] [process.c:427] child pid 3310 started
+[11-09-2023 17:37:26.280s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:26.281s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[11-09-2023 17:37:26.281s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:26.281s] [process.c:285] child pid 3310 exited status 0
+[11-09-2023 17:37:26.281s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:26.281s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:26.383s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:26.383s] [tlv.c:566] processing command: 5 id: '91064584880770661254655955806444'
+[11-09-2023 17:37:26.383s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:26.484s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:26.484s] [tlv.c:566] processing command: 5 id: '59579623211706364823730454109696'
+[11-09-2023 17:37:26.788s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:26.788s] [tlv.c:566] processing command: 1068 id: '91556346113372476167583740063700'
+[11-09-2023 17:37:26.790s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:26.790s] [tlv.c:566] processing command: 1069 id: '45838635093187894685246006857372'
+[11-09-2023 17:37:26.790s] [stdapi/sys/process.c:339] process_new: echo ihBr  0x00000043
+[11-09-2023 17:37:26.790s] [process.c:427] child pid 3311 started
+[11-09-2023 17:37:26.790s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:26.791s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[11-09-2023 17:37:26.791s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:26.791s] [process.c:285] child pid 3311 exited status 0
+[11-09-2023 17:37:26.791s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:26.791s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:26.895s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:26.895s] [tlv.c:566] processing command: 5 id: '39838305327802334712058097163988'
+[11-09-2023 17:37:26.895s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:26.996s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:26.996s] [tlv.c:566] processing command: 5 id: '25655148571306371885063945359639'
+[11-09-2023 17:37:27.301s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:27.301s] [tlv.c:566] processing command: 1068 id: '16444601084380066835639983284743'
+[11-09-2023 17:37:27.307s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:27.307s] [tlv.c:566] processing command: 1069 id: '67071040598178522412167376872517'
+[11-09-2023 17:37:27.307s] [stdapi/sys/process.c:339] process_new: echo PrIl  0x00000043
+[11-09-2023 17:37:27.307s] [process.c:427] child pid 3312 started
+[11-09-2023 17:37:27.307s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:27.308s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[11-09-2023 17:37:27.308s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.308s] [process.c:285] child pid 3312 exited status 0
+[11-09-2023 17:37:27.308s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.308s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:27.415s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:27.415s] [tlv.c:566] processing command: 5 id: '76537432410531044320668725723135'
+[11-09-2023 17:37:27.415s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:27.516s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:27.516s] [tlv.c:566] processing command: 5 id: '26661822813541375115341176668759'
+[11-09-2023 17:37:27.821s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:27.821s] [tlv.c:566] processing command: 1068 id: '83103001672905032594546584060486'
+[11-09-2023 17:37:27.823s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:27.823s] [tlv.c:566] processing command: 1069 id: '84833349833397988921864955228864'
+[11-09-2023 17:37:27.823s] [stdapi/sys/process.c:339] process_new: echo fXCi  0x00000043
+[11-09-2023 17:37:27.823s] [process.c:427] child pid 3313 started
+[11-09-2023 17:37:27.823s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Resource temporarily unavailable
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.824s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.825s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.826s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:285] child pid 3313 exited status 0
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:27.827s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:27.828s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:27.828s] [tlv.c:566] processing command: 5 id: '54521915674379252623164289461586'
+[11-09-2023 17:37:27.828s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:27.931s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:27.931s] [tlv.c:566] processing command: 5 id: '79067706772348566023683923767783'
+[11-09-2023 17:37:28.232s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:28.232s] [tlv.c:566] processing command: 1068 id: '65703322066260624586116632023656'
+[11-09-2023 17:37:28.234s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:28.234s] [tlv.c:566] processing command: 1069 id: '71361382392434306995884343332462'
+[11-09-2023 17:37:28.234s] [stdapi/sys/process.c:339] process_new: echo ndwh  0x00000043
+[11-09-2023 17:37:28.234s] [process.c:427] child pid 3314 started
+[11-09-2023 17:37:28.234s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Resource temporarily unavailable
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.235s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.236s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.237s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.238s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.239s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.240s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:285] child pid 3314 exited status 0
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.241s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:28.243s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:28.243s] [tlv.c:566] processing command: 5 id: '77557158648821840221760611122050'
+[11-09-2023 17:37:28.243s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:28.345s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:28.345s] [tlv.c:566] processing command: 5 id: '67120567864371490524664619867557'
+[11-09-2023 17:37:28.651s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:28.651s] [tlv.c:566] processing command: 1068 id: '38171968922491078239273798262631'
+[11-09-2023 17:37:28.652s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:28.652s] [tlv.c:566] processing command: 1069 id: '62790261634103581670114013127260'
+[11-09-2023 17:37:28.653s] [stdapi/sys/process.c:339] process_new: echo lskl  0x00000043
+[11-09-2023 17:37:28.653s] [process.c:427] child pid 3316 started
+[11-09-2023 17:37:28.653s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Resource temporarily unavailable
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.654s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.655s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.656s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.657s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.658s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:285] child pid 3316 exited status 0
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:28.659s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:28.660s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:28.660s] [tlv.c:566] processing command: 5 id: '24306692242805489039937696760124'
+[11-09-2023 17:37:28.660s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:28.763s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:28.763s] [tlv.c:566] processing command: 5 id: '02376356765741122588926991806742'
+[11-09-2023 17:37:29.065s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:29.065s] [tlv.c:566] processing command: 1068 id: '39322942421564306881570346948885'
+[11-09-2023 17:37:29.067s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:29.067s] [tlv.c:566] processing command: 1069 id: '91409552372866546579047649052308'
+[11-09-2023 17:37:29.067s] [stdapi/sys/process.c:339] process_new: echo Ngjr  0x00000043
+[11-09-2023 17:37:29.067s] [process.c:427] child pid 3318 started
+[11-09-2023 17:37:29.067s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Resource temporarily unavailable
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.069s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.070s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.071s] [process.c:285] child pid 3318 exited status 0
+[11-09-2023 17:37:29.071s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.071s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:29.074s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:29.074s] [tlv.c:566] processing command: 5 id: '61057058173719530295207799378793'
+[11-09-2023 17:37:29.074s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:29.176s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:29.176s] [tlv.c:566] processing command: 5 id: '70538597902440810217712659792167'
+[11-09-2023 17:37:29.497s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:29.497s] [tlv.c:566] processing command: 1068 id: '95434288289408152337064376334638'
+[11-09-2023 17:37:29.512s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:29.512s] [tlv.c:566] processing command: 1069 id: '40319770646284523093297310848693'
+[11-09-2023 17:37:29.512s] [stdapi/sys/process.c:339] process_new: echo 'CcFv'  0x00000043
+[11-09-2023 17:37:29.512s] [process.c:427] child pid 3319 started
+[11-09-2023 17:37:29.512s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Resource temporarily unavailable
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.513s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:285] child pid 3319 exited status 0
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.514s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:29.542s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:29.542s] [tlv.c:566] processing command: 5 id: '61670850936614890616701136735272'
+[11-09-2023 17:37:29.542s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:29.671s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:29.671s] [tlv.c:566] processing command: 5 id: '79775454413942055981226431627421'
+[11-09-2023 17:37:29.977s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:29.977s] [tlv.c:566] processing command: 1068 id: '68949552201935685654067134926279'
+[11-09-2023 17:37:29.986s] [tlv.c:525] handler for 1069: 0x1c820c0
+[11-09-2023 17:37:29.986s] [tlv.c:566] processing command: 1069 id: '56448469706723248535456333812211'
+[11-09-2023 17:37:29.986s] [stdapi/sys/process.c:339] process_new: echo "mPlT"  0x00000043
+[11-09-2023 17:37:29.986s] [process.c:427] child pid 3320 started
+[11-09-2023 17:37:29.986s] [process.c:462] IO started on fds 10 6
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Resource temporarily unavailable
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.987s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:285] child pid 3320 exited status 0
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 10: Invalid argument
+[11-09-2023 17:37:29.988s] [process.c:274] nothing on fd 6: Invalid argument
+[11-09-2023 17:37:29.998s] [mettle.c:75] Heartbeat
+[11-09-2023 17:37:30.135s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:30.135s] [tlv.c:566] processing command: 5 id: '35175039669129279859878487336794'
+[11-09-2023 17:37:30.135s] [stdapi/sys/process.c:249] read 5 bytes for channel
+[11-09-2023 17:37:30.238s] [tlv.c:525] handler for 5: 0x1c80ce0
+[11-09-2023 17:37:30.238s] [tlv.c:566] processing command: 5 id: '29666337602029083919288925440568'
+[11-09-2023 17:37:30.542s] [tlv.c:525] handler for 1068: 0x1c82060
+[11-09-2023 17:37:30.543s] [tlv.c:566] processing command: 1068 id: '31259428158421931222272888125975'
